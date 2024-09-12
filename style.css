@@ -1,3 +1,8 @@
+/* NAVBAR */
+#navegador{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 /*CARRUSEL*/
 #carrusel{
     display: flex;
@@ -29,6 +34,7 @@
     padding: 60px;
     background-color: #141618;
     color: white;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 /*FORM*/
@@ -42,6 +48,7 @@
     align-items: center;
     background-color: gray;
     padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .form-floating{
@@ -50,7 +57,7 @@
     align-items: center;
 }
 button {
-    width: 100%; 
+    width: 100%;
     padding: 10px;
     background-color: #141618; 
     color: white;
