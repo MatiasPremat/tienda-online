@@ -1,0 +1,72 @@
+/*CARRUSEL*/
+#carrusel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+
+#carouselExampleFade{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%; 
+    height: 550px;
+    padding: 50px;
+    background-color: gray;
+}
+#carouselExampleFade img{
+    width: 800px; 
+    height: 450px;
+}
+
+/*PRODUCTOS*/
+#productos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+    background-color: #141618;
+    color: white;
+}
+
+/*FORM*/
+#Contacto form{
+    width: 70%;
+}
+#Contacto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    padding: 30px;
+}
+
+.form-floating{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+button {
+    width: 100%; 
+    padding: 10px;
+    background-color: #141618; 
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+/*CARD*/
+.card img{
+    width: 286px;
+    height: 286px;
+}
+
+/*FOOTER*/
+footer{
+    background-color: #141618;
+    margin:0;
+    padding: 0;
+}
